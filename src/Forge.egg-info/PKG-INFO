@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: Forge
+Version: 0.1.5
+Summary: Rendering engine for 3D graphics and animation.
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: PyOpenGL>=3.1.6
+Requires-Dist: PyOpenGL-accelerate>=3.1.6
+Requires-Dist: glfw>=2.5.8
+Requires-Dist: imageio>=2.30.0
+Requires-Dist: pillow
+Requires-Dist: numpy
+Requires-Dist: moderngl
+Requires-Dist: trimesh
+
+# Forge
+
+## 3D Rendering API
